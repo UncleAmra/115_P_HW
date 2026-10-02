@@ -1,2 +1,3 @@
-# 115_P_HW
-Python HW repos
+# Python class HW repos. 
+Don't blame me. 
+
